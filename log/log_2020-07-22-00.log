@@ -1,0 +1,5 @@
+2020-07-22 00:54:16,912 [INFO ]  GET: https://buff.163.com/api/market/goods?game=csgo&page_num=900000&sort_by=price.asc&min_price=0&max_price=150000
+2020-07-22 00:54:16,912 [INFO ]  sleep 0.8575518290862632s at 2020-07-22 00:54:16.912209
+2020-07-22 00:54:18,918 [INFO ]  Error happens!
+2020-07-22 00:54:18,919 [INFO ]  {'code': 'Action Forbidden', 'error': '市场接口访问功能暂时关闭，请稍后再试', 'extra': None}
+2020-07-22 00:54:18,919 [INFO ]  Error: 市场接口访问功能暂时关闭，请稍后再试

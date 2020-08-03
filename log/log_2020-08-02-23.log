@@ -1,0 +1,5 @@
+2020-08-02 23:59:37,413 [INFO ]  GET: https://buff.163.com/api/market/goods?game=csgo&page_num=900000&sort_by=price.asc&min_price=0&max_price=150000
+2020-08-02 23:59:37,413 [INFO ]  sleep 7.326799640197937s at 2020-08-02 23:59:37.413327
+2020-08-02 23:59:48,920 [INFO ]  Totally 15060 items of 753 pages to crawl.
+2020-08-02 23:59:48,920 [INFO ]  Page 1 / 753
+2020-08-02 23:59:48,920 [INFO ]  sleep 8.593915349743373s at 2020-08-02 23:59:48.920714

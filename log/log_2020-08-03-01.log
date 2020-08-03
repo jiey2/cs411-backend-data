@@ -1,0 +1,7 @@
+2020-08-03 01:57:48,478 [INFO ]  GET: https://buff.163.com/api/market/goods?game=csgo&page_num=900000&sort_by=price.asc&min_price=0&max_price=150000
+2020-08-03 01:57:48,479 [INFO ]  sleep 5.382364765550085s at 2020-08-03 01:57:48.479105
+2020-08-03 01:57:57,984 [INFO ]  Totally 15058 items of 753 pages to crawl.
+2020-08-03 01:57:57,984 [INFO ]  Page 1 / 753
+2020-08-03 01:57:57,984 [INFO ]  sleep 5.9680062789079615s at 2020-08-03 01:57:57.984594
+2020-08-03 01:58:05,180 [INFO ]  Process Data
+2020-08-03 01:58:05,290 [INFO ]  Writing to SQL: {'ItemName': '★ StatTrak™ Survival Knife | Blue Steel (Well-Worn)', 'BuffPrice': 21506.105013473592, 'BuffNum': 1, 'BuffUpdateTime': 1596437885}
