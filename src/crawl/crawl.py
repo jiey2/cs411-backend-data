@@ -54,7 +54,7 @@ def crawl_buff(category=None):
         # get each page
 
         # TEST CASE 
-        for page_num in range(1, 3):
+        for page_num in range(1, total_page):
             log.info('Page {} / {}'.format(page_num, total_page))
             page_url = goods_section_page_url(category, page_num)
             page_json = get_json_dict(page_url)
