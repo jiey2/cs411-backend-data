@@ -1,4 +1,4 @@
 *.vscode
 /log
 
-/src/configs/configs.py
+/src/configs/credentials.py
