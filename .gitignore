@@ -1,0 +1,4 @@
+*.vscode
+/log
+
+/src/configs/configs.py
